@@ -1,0 +1,28 @@
+# 系统与编辑器
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+out/
+bin/
+obj/
+target/
+*.exe
+*.dll
+*.pdb
+*.obj
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+*.cache
